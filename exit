@@ -1,0 +1,185 @@
+[33mcommit f44d37d686885a009702f4f48d018e7bd86816e3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Tue Aug 2 19:55:50 2022 +0000
+
+    Added quantity boxes to shopping bag page
+
+[33mcommit 3a12402726e3bb8e3384d38b1b7c12655bd2c138[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Mon Aug 1 22:34:22 2022 +0000
+
+    Added quantity input +/- buttons
+
+[33mcommit c8d5fb678a1f404c1dcfc425501b4efff907c9da[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Mon Aug 1 20:35:33 2022 +0000
+
+    Finished product size logic
+
+[33mcommit 2bd2dee4fba5eb92fce0da470c0f1bcba4a3e6ae[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Mon Aug 1 16:32:52 2022 +0000
+
+    Added sizes to product model and size selctor box to product template
+
+[33mcommit b64f725067fea8b0c37337930038c248cbde626c[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 31 23:12:55 2022 +0000
+
+    updated shopping bag template
+
+[33mcommit 1b8a692526a8690ff3a7dda655a0ea99c0d14f44[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 31 22:03:41 2022 +0000
+
+    Updated context processor
+
+[33mcommit 0d11efd21effe050204447db60fee9e046aea307[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 31 21:33:53 2022 +0000
+
+    Added add to bag functionality
+
+[33mcommit 38140b77920826e4f81b4afa33f599687ed48b4b[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 31 19:53:46 2022 +0000
+
+    Added bag context and delivery logic
+
+[33mcommit c43449e463e1a030bbf5a86862810fb60302e6f6[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 31 19:13:56 2022 +0000
+
+    Added shopping bag app, urls and template
+
+[33mcommit 4e5e8fcfcbfcb5906a6e043ba288e68ae0ae0ac8[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 31 17:38:15 2022 +0000
+
+    Added sorting JS and back to top link
+
+[33mcommit 03f013fc6d9fe64d8465a48548f1adf307a941a7[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 31 16:31:51 2022 +0000
+
+    Added sorting and products count to product page
+
+[33mcommit 15b4d8703856847b85abef44dc29fecea19b25a4[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sat Jul 30 17:45:23 2022 +0000
+
+    Added sorting
+
+[33mcommit c42cd62d841c22529ddadfef5593a16f46dfab21[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sat Jul 30 17:14:24 2022 +0000
+
+    Added category filtering
+
+[33mcommit 198cf0df602257a626c7d870a495b3ddec35d318[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sat Jul 30 16:50:26 2022 +0000
+
+    Added search functionality
+
+[33mcommit 62d932bb1701c9a5c828dae5316fe74b11783c33[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Thu Jul 28 00:36:10 2022 +0000
+
+    added product details functionality
+
+[33mcommit a9db718c5ea1e66c4e81f0c12290117467cd9cbb[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Wed Jul 27 21:00:10 2022 +0000
+
+    started product template
+
+[33mcommit ed098a3d5c7b97e113e52714813d1e60a92b72bc[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Mon Jul 25 23:27:39 2022 +0000
+
+    Added products views and templates
+
+[33mcommit 6ae09edd073d7b0710284e75301e11fca264c5f2[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Mon Jul 25 23:03:47 2022 +0000
+
+    Customise admin
+
+[33mcommit e4dfe08cfd6bac1f54bffb98799dc5c556e9412d[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Mon Jul 25 21:09:09 2022 +0000
+
+    Added products app, models and fixtures
+
+[33mcommit 5a732b834a9536cebf2f3d062e5f258c27f91399[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 24 23:19:26 2022 +0000
+
+    Added mobile_header and main navbar
+
+[33mcommit 246e31da88e8f136aa622a67dc1957ac4d9f3394[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 24 00:04:03 2022 +0000
+
+    Completed homepage header and css
+
+[33mcommit 9d833e8439deeea00282af7d53a853600ae786d9[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sat Jul 23 21:58:30 2022 +0000
+
+    Added main page header
+
+[33mcommit 22197fd0ab7d29bf1bccdce5224cb4edae2a0ab6[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Wed Jul 20 22:37:55 2022 +0000
+
+    Homepage and top header part 1
+
+[33mcommit 6fc7eb90b9ee7eae85eae2237d905d8145234f32[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Wed Jul 20 22:13:45 2022 +0000
+
+    Added homepage conent
+
+[33mcommit d0e4a24c029817c7d426ab407bd55c693aa34eca[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Mon Jul 18 22:31:28 2022 +0000
+
+    Added home app and templates
+
+[33mcommit 9a045340ad10fd8a1a9e9639b98a15b6b803868c[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Mon Jul 18 22:13:12 2022 +0000
+
+    Added blocks to base template
+
+[33mcommit ea02a61ed2a7da979c4d08f05ec7a5cb6ff75231[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Mon Jul 18 00:01:31 2022 +0000
+
+    Added allauth templates and base.html
+
+[33mcommit d4ad5c98b853f982cb34e0c4f546ca8732c197e2[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 17 17:22:56 2022 +0000
+
+    Setup allauth
+
+[33mcommit c3f55c6e32596139cc5c9e4e365c4f4dd276c1e5[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sun Jul 17 01:14:22 2022 +0000
+
+    Allauth setup one
+
+[33mcommit 71e16568da41521ffe2f19f226edceb71faf8fbe[m
+Author: anthonyjn08 <anthonyjnelson@hotmail.com>
+Date:   Sat Jul 16 21:40:49 2022 +0000
+
+    Initial commit
+
+[33mcommit 44a31a03fe16e62d97164f1ff4a94c004d342571[m
+Author: anthonyjn08 <89935728+anthonyjn08@users.noreply.github.com>
+Date:   Sat Jul 16 22:02:23 2022 +0100
+
+    Initial commit
