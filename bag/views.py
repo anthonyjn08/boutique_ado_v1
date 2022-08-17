@@ -60,7 +60,7 @@ def adjust_bag(request, item_id):
             messages.success(request, f'Updated size {size.upper()} {product.name} quantity to {bag[item_id]["items_by_size"][size]}')
         else:
             del bag[item_id]['items_by_size'][size]
-            if not_bag[item_id]['items_by_size']:
+            if not bag[item_id]['items_by_size']:
                 bag.pop(item_id)
             messages.success(request, f'Removed size {size.upper()} {product.name} from your bag')
     else:
